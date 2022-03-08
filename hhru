@@ -1,0 +1,5691 @@
+[{
+  "_id": {
+    "$oid": "62269a32b8ae7ed7b1550ce3"
+  },
+  "name": "Data Scientist (аналитик данных в области управления персоналом)",
+  "url": "https://hh.ru/vacancy/52264939?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a32b8ae7ed7b1550ce4"
+  },
+  "name": "Data engineer/ Инженер по данным (удаленно)",
+  "url": "https://hh.ru/vacancy/50138376?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a32b8ae7ed7b1550ce5"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52475275?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a32b8ae7ed7b1550ce6"
+  },
+  "name": "Специалист по машинному обучению / data scientist",
+  "url": "https://hh.ru/vacancy/52627493?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550ce7"
+  },
+  "name": "Аналитик данных (Data Scientist)",
+  "url": "https://hh.ru/vacancy/53281326?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 50000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550ce8"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/53092406?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 300000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550ce9"
+  },
+  "name": "Junior Data scientist/ Младший риск-аналитик",
+  "url": "https://hh.ru/vacancy/53211742?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cea"
+  },
+  "name": "Data Scientist (DS SWAT)",
+  "url": "https://hh.ru/vacancy/53421862?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550ceb"
+  },
+  "name": "Data scientist senior level",
+  "url": "https://hh.ru/vacancy/52555729?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 300000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cec"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/52625579?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 150000,
+  "salary_max": 220000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550ced"
+  },
+  "name": "Data scientist / Product analyst",
+  "url": "https://hh.ru/vacancy/52276251?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": 250000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cee"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/53409941?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 4000,
+  "salary_max": 5000,
+  "salary_currency": "EUR"
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cef"
+  },
+  "name": "Аналитик данных / Data scientist",
+  "url": "https://hh.ru/vacancy/49598346?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 130000,
+  "salary_max": 180000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf0"
+  },
+  "name": "Senior Analytics & Insights Manager",
+  "url": "https://hh.ru/vacancy/51860512?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf1"
+  },
+  "name": "Deep learning developer / Data scientist, remote",
+  "url": "https://hh.ru/vacancy/52252531?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 400000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf2"
+  },
+  "name": "Data Scientist / специалист по распознаванию и категоризации изображений",
+  "url": "https://hh.ru/vacancy/53427577?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 100000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf3"
+  },
+  "name": "Специалист по компьютерному зрению (CV) / Data scientist",
+  "url": "https://hh.ru/vacancy/52505890?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 130000,
+  "salary_max": 160000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf4"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/53215762?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf5"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/51883505?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf6"
+  },
+  "name": "Senior Data scientist (Computer Vision)",
+  "url": "https://hh.ru/vacancy/47357797?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf7"
+  },
+  "name": "Data Scientist (контроль качества операционных процессов)",
+  "url": "https://hh.ru/vacancy/52335879?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf8"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/50113406?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cf9"
+  },
+  "name": "ML Engineer/ Data Scientist (WAF)",
+  "url": "https://hh.ru/vacancy/48285425?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cfa"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/53390075?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cfb"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/52563634?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": 300000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a33b8ae7ed7b1550cfc"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/53378008?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550cfd"
+  },
+  "name": "ML Engineer/ Data Scientist (WAF)",
+  "url": "https://hh.ru/vacancy/48285387?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550cfe"
+  },
+  "name": "Research Engineer / Data Scientist",
+  "url": "https://hh.ru/vacancy/50072394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550cff"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/53390074?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d00"
+  },
+  "name": "Data scientist / ML разработчик",
+  "url": "https://hh.ru/vacancy/52408263?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d01"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52166953?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d02"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/50846487?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d03"
+  },
+  "name": "Data scientist senior level",
+  "url": "https://hh.ru/vacancy/52555555?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 300000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d04"
+  },
+  "name": "Data scientist senior level",
+  "url": "https://hh.ru/vacancy/52555631?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 300000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d05"
+  },
+  "name": "Аналитик данных / Data Scientist",
+  "url": "https://hh.ru/vacancy/52054274?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d06"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/52895165?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 2500,
+  "salary_max": null,
+  "salary_currency": "EUR"
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d07"
+  },
+  "name": "IT Expert - Data Architect",
+  "url": "https://hh.ru/vacancy/52818313?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 310100,
+  "salary_max": 387600,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d08"
+  },
+  "name": "ML Engineer/ Data Scientist (WAF)",
+  "url": "https://hh.ru/vacancy/48285490?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d09"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/53421814?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d0a"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/53327302?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d0b"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/49627787?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d0c"
+  },
+  "name": "Разработчик нейросетевых алгоритмов / Data scientist",
+  "url": "https://hh.ru/vacancy/50751593?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d0d"
+  },
+  "name": "Data Scientist в команду Автостратегии",
+  "url": "https://hh.ru/vacancy/53421813?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d0e"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/52563633?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": 300000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d0f"
+  },
+  "name": "Senior Data Scientist (computer vision)",
+  "url": "https://hh.ru/vacancy/53233774?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d10"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52435919?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d11"
+  },
+  "name": "Lead Data Analyst/Data Scientist",
+  "url": "https://hh.ru/vacancy/52179349?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d12"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/53380404?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d13"
+  },
+  "name": "Senior Data Scientist (ASR; TTS)",
+  "url": "https://hh.ru/vacancy/52721900?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 4000,
+  "salary_max": 5000,
+  "salary_currency": "USD"
+},{
+  "_id": {
+    "$oid": "62269a34b8ae7ed7b1550d14"
+  },
+  "name": "ML Engineer/ Data Scientist (WAF)",
+  "url": "https://hh.ru/vacancy/48285480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d15"
+  },
+  "name": "Middle Data Scientist (Computer Vision)",
+  "url": "https://hh.ru/vacancy/52244147?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d16"
+  },
+  "name": "Data Scientist (Middle)",
+  "url": "https://hh.ru/vacancy/50630870?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d17"
+  },
+  "name": "Data Scientist (Telco)",
+  "url": "https://hh.ru/vacancy/53363712?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d18"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/53380405?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d19"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/53372251?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d1a"
+  },
+  "name": "Data Scientist / Deep learning Engineer",
+  "url": "https://hh.ru/vacancy/53416744?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d1b"
+  },
+  "name": "Аналитик/Старший аналитик Data Scientist",
+  "url": "https://hh.ru/vacancy/53316766?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d1c"
+  },
+  "name": "Machine Learning Engineer (ML, Infrastructure)",
+  "url": "https://hh.ru/vacancy/53209019?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 3000,
+  "salary_max": null,
+  "salary_currency": "EUR"
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d1d"
+  },
+  "name": "Analyst Data Scientist",
+  "url": "https://hh.ru/vacancy/53320417?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d1e"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/53377877?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d1f"
+  },
+  "name": "Data scientist / Machine learning engineer (команда Рекомендаций и машинного обучения, ВКонтакте)",
+  "url": "https://hh.ru/vacancy/53288165?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d20"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/52563632?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": 300000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d21"
+  },
+  "name": "Data Scientist (SberDevices)",
+  "url": "https://hh.ru/vacancy/51784863?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d22"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/52006250?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d23"
+  },
+  "name": "Data scientist (Remote)",
+  "url": "https://hh.ru/vacancy/47609430?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d24"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/48090484?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d25"
+  },
+  "name": "Аналитик данных (Data Scientist)",
+  "url": "https://hh.ru/vacancy/51427357?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d26"
+  },
+  "name": "ML Engineer/ Data Scientist (WAF)",
+  "url": "https://hh.ru/vacancy/48285467?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d27"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52088272?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d28"
+  },
+  "name": "Middle/Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/50467275?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d29"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/53321394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d2a"
+  },
+  "name": "Риск-Аналитик (Data scientist)",
+  "url": "https://hh.ru/vacancy/51710019?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d2b"
+  },
+  "name": "Data scientist (Predictive Analytics)",
+  "url": "https://hh.ru/vacancy/50096275?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d2c"
+  },
+  "name": "Middle Data Scientist/Data Analyst",
+  "url": "https://hh.ru/vacancy/52305783?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a35b8ae7ed7b1550d2d"
+  },
+  "name": "Data Scientist (Research Scientist)",
+  "url": "https://hh.ru/vacancy/53413786?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d2e"
+  },
+  "name": "Data scientist / Machine learning engineer (команда CoreML ВКонтакте)",
+  "url": "https://hh.ru/vacancy/50605612?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d2f"
+  },
+  "name": "Data Scientist (математик-аналитик)",
+  "url": "https://hh.ru/vacancy/53282680?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d30"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/53266085?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d31"
+  },
+  "name": "ML Engineer/Data Scientist",
+  "url": "https://hh.ru/vacancy/48980070?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d32"
+  },
+  "name": "Стажер Data Scientist, ML Ops",
+  "url": "https://hh.ru/vacancy/53177774?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d33"
+  },
+  "name": "Middle Data Scientist (Big Data)",
+  "url": "https://hh.ru/vacancy/52324250?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d34"
+  },
+  "name": "Data Scientist (middle/senior)",
+  "url": "https://hh.ru/vacancy/52055303?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d35"
+  },
+  "name": "Senior Research Engineer / Data Scientist",
+  "url": "https://hh.ru/vacancy/50996908?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d36"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/53274251?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d37"
+  },
+  "name": "Старший аналитик / Data scientist",
+  "url": "https://hh.ru/vacancy/52763528?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d38"
+  },
+  "name": "Senior Data Scientist CVM",
+  "url": "https://hh.ru/vacancy/53422172?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d39"
+  },
+  "name": "Аналитик Data Scientist",
+  "url": "https://hh.ru/vacancy/52062723?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d3a"
+  },
+  "name": "Data Scientist / Data Analyst (DS Team)",
+  "url": "https://hh.ru/vacancy/49113776?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 230000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d3b"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/53274253?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d3c"
+  },
+  "name": "Senior Data Scientist (Antifraud)",
+  "url": "https://hh.ru/vacancy/52243388?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d3d"
+  },
+  "name": "Middle/Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/53333838?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d3e"
+  },
+  "name": "Middle Data scientist (Отдел исследования данных, SberData)",
+  "url": "https://hh.ru/vacancy/47567273?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d3f"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/43183814?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d40"
+  },
+  "name": "Ведущий аналитик/Senior data Scientist/Data Analyst (Machine learning, ML, нейронные сети)",
+  "url": "https://hh.ru/vacancy/50981618?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d41"
+  },
+  "name": "Data scientist middle",
+  "url": "https://hh.ru/vacancy/52015104?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a36b8ae7ed7b1550d42"
+  },
+  "name": "Data engineer/Инженер данных (удаленно)",
+  "url": "https://hh.ru/vacancy/52468115?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d43"
+  },
+  "name": "Data Scientist / Аналитик Data Science",
+  "url": "https://hh.ru/vacancy/48709110?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d44"
+  },
+  "name": "Data engineer (удаленно)",
+  "url": "https://hh.ru/vacancy/52296844?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d45"
+  },
+  "name": "Senior Data Scientist (Управление валидации)",
+  "url": "https://hh.ru/vacancy/53367118?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d46"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/53184214?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d47"
+  },
+  "name": "Data scientist (middle/senior)",
+  "url": "https://hh.ru/vacancy/51812421?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d48"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/50408034?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d49"
+  },
+  "name": "Data Scientist NLP Core",
+  "url": "https://hh.ru/vacancy/52839181?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d4a"
+  },
+  "name": "Lead data scientist (Антифрод)",
+  "url": "https://hh.ru/vacancy/53408077?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d4b"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/53274254?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d4c"
+  },
+  "name": "Data scientist / Senior data scientist (Персонализация)",
+  "url": "https://hh.ru/vacancy/47771885?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d4d"
+  },
+  "name": "Data engineer (удаленно)",
+  "url": "https://hh.ru/vacancy/52609839?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d4e"
+  },
+  "name": "Senior Data Scientist (Big Data)",
+  "url": "https://hh.ru/vacancy/52322473?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d4f"
+  },
+  "name": "Data engineer/Python developer",
+  "url": "https://hh.ru/vacancy/52029419?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d50"
+  },
+  "name": "Data Scientist (compliance)",
+  "url": "https://hh.ru/vacancy/53229223?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d51"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/49274814?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d52"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/53274252?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d53"
+  },
+  "name": "Data Scientist / Product Analyst (Продуктовый аналитик)",
+  "url": "https://hh.ru/vacancy/48880973?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d54"
+  },
+  "name": "Data Scientist (Data Lab Team)",
+  "url": "https://hh.ru/vacancy/51480968?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 220000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d55"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/50893102?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d56"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/52105777?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a37b8ae7ed7b1550d57"
+  },
+  "name": "Investigation Analyst",
+  "url": "https://hh.ru/vacancy/52256675?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 1000,
+  "salary_max": 2000,
+  "salary_currency": "USD"
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d58"
+  },
+  "name": "Биоинформатик / Data scientist (тематика - онкология) ОАиПМБРЗ",
+  "url": "https://hh.ru/vacancy/53275770?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d59"
+  },
+  "name": "Middle Data scientist (Promo Optimization)",
+  "url": "https://hh.ru/vacancy/48980498?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d5a"
+  },
+  "name": "Data Scientist в области рекомендательных систем",
+  "url": "https://hh.ru/vacancy/47342740?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d5b"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/46059292?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d5c"
+  },
+  "name": "DWH Developer",
+  "url": "https://hh.ru/vacancy/51655295?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 150000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d5d"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/53156605?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d5e"
+  },
+  "name": "Senior Data scientist",
+  "url": "https://hh.ru/vacancy/52004366?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d5f"
+  },
+  "name": "Junior data engineer",
+  "url": "https://hh.ru/vacancy/53186457?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d60"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52046756?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d61"
+  },
+  "name": "Data scientist (senior)",
+  "url": "https://hh.ru/vacancy/53228419?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d62"
+  },
+  "name": "Data Scientist в блок \"Стратегия и развитие\"",
+  "url": "https://hh.ru/vacancy/52263280?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d63"
+  },
+  "name": "Team Lead Data Scientist Департамента машинного обучения и работе с данными",
+  "url": "https://hh.ru/vacancy/50141582?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d64"
+  },
+  "name": "Аналитик-разработчик / Data scientist (Middle/Senior)",
+  "url": "https://hh.ru/vacancy/48252917?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d65"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/48231453?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d66"
+  },
+  "name": "Data Scientist / Аналитик (эконометрическое моделирование)",
+  "url": "https://hh.ru/vacancy/43822820?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d67"
+  },
+  "name": "Senior Data Scientist/Machine Learning Engineer",
+  "url": "https://hh.ru/vacancy/47709863?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d68"
+  },
+  "name": "Руководитель направления data governance",
+  "url": "https://hh.ru/vacancy/51990894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d69"
+  },
+  "name": "Junior Data scientist по разработке моделей оценки кредитного риска для клиентов",
+  "url": "https://hh.ru/vacancy/49725181?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d6a"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/53234859?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d6b"
+  },
+  "name": "Middle Data Scientist (Promo Forecast)",
+  "url": "https://hh.ru/vacancy/52037208?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d6c"
+  },
+  "name": "Data Scientist Middle/Middle+",
+  "url": "https://hh.ru/vacancy/50766728?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d6d"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52046750?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d6e"
+  },
+  "name": "Senior/middle data scientist",
+  "url": "https://hh.ru/vacancy/53211671?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d6f"
+  },
+  "name": "Senior Data Scientist/ML Engineer SberDevices",
+  "url": "https://hh.ru/vacancy/53269426?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a38b8ae7ed7b1550d70"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/52225060?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d71"
+  },
+  "name": "Главный эксперт-аналитик по моделированию службы риск-менеджмента / data scientist",
+  "url": "https://hh.ru/vacancy/53185387?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d72"
+  },
+  "name": "Аналитик данных Big Data (SQL)",
+  "url": "https://hh.ru/vacancy/52222309?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 90000,
+  "salary_max": 150000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d73"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/52599981?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d74"
+  },
+  "name": "Data Engineer (Wind Team)",
+  "url": "https://hh.ru/vacancy/50632031?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 250000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d75"
+  },
+  "name": "Data Scientist (NLP, Python data engineering)",
+  "url": "https://hh.ru/vacancy/51106151?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d76"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52046751?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d77"
+  },
+  "name": "Data scientist (Департамент по работе с проблемными активами)",
+  "url": "https://hh.ru/vacancy/53292714?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d78"
+  },
+  "name": "Data Scientist (Computer Vision)",
+  "url": "https://hh.ru/vacancy/52029411?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d79"
+  },
+  "name": "Middle data scientist (Рекомендательные системы)",
+  "url": "https://hh.ru/vacancy/46125724?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d7a"
+  },
+  "name": "Data Scientist/Data Analyst",
+  "url": "https://hh.ru/vacancy/47586416?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d7b"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52246462?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d7c"
+  },
+  "name": "Data Science Team Lead",
+  "url": "https://hh.ru/vacancy/50442368?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d7d"
+  },
+  "name": "Lead Data Scientist",
+  "url": "https://hh.ru/vacancy/52263313?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d7e"
+  },
+  "name": "Junior Data Scientist",
+  "url": "https://hh.ru/vacancy/52275438?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 50000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d7f"
+  },
+  "name": "Data Scientist (Внешнеэкономическое партнерство)",
+  "url": "https://hh.ru/vacancy/53258251?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d80"
+  },
+  "name": "Аналитик данных/Data Scientist",
+  "url": "https://hh.ru/vacancy/53073748?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d81"
+  },
+  "name": "Senior Data Scientist (OCR, NLP)",
+  "url": "https://hh.ru/vacancy/52477985?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d82"
+  },
+  "name": "Data Engineer (Senior)",
+  "url": "https://hh.ru/vacancy/51361166?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 350000,
+  "salary_max": 500000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d83"
+  },
+  "name": "Big Data Developer with Python / Spark / AWS",
+  "url": "https://hh.ru/vacancy/40577198?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d84"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52972621?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d85"
+  },
+  "name": "Ведущий Python-разработчик (Senior/TechLead Python Developer)",
+  "url": "https://hh.ru/vacancy/51348401?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 400000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d86"
+  },
+  "name": "Data Scientist (Predict)",
+  "url": "https://hh.ru/vacancy/53021364?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d87"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52246461?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a39b8ae7ed7b1550d88"
+  },
+  "name": "Senior Data Scientist (NLP)",
+  "url": "https://hh.ru/vacancy/43658985?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d89"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/53096690?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 120000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d8a"
+  },
+  "name": "Middle/Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/49588659?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d8b"
+  },
+  "name": "Data scientist (Прогнозирование спроса)",
+  "url": "https://hh.ru/vacancy/50223934?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d8c"
+  },
+  "name": "Data engineer (удаленно)",
+  "url": "https://hh.ru/vacancy/52296645?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d8d"
+  },
+  "name": "Data Scientist в Управление комплексной безопасности",
+  "url": "https://hh.ru/vacancy/53064433?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d8e"
+  },
+  "name": "Data Analyst / Data scientist (Analytics Team)",
+  "url": "https://hh.ru/vacancy/52120622?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d8f"
+  },
+  "name": "Data Scientist, Склад/Интеграционные решения склада",
+  "url": "https://hh.ru/vacancy/53014472?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d90"
+  },
+  "name": "Senior/Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/53154684?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d91"
+  },
+  "name": "Data Engineer (Amber team)",
+  "url": "https://hh.ru/vacancy/50879799?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 250000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d92"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52046749?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d93"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52993916?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d94"
+  },
+  "name": "Middle/Senior Data Scientist/ML Engineer",
+  "url": "https://hh.ru/vacancy/50686205?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": 320000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d95"
+  },
+  "name": "Business Data Scientist",
+  "url": "https://hh.ru/vacancy/52945385?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 4000,
+  "salary_max": 5500,
+  "salary_currency": "EUR"
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d96"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52046757?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d97"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/50706460?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d98"
+  },
+  "name": "Senior data scientist",
+  "url": "https://hh.ru/vacancy/53187288?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d99"
+  },
+  "name": "Data Scientist (Big3)",
+  "url": "https://hh.ru/vacancy/53000801?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 250000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d9a"
+  },
+  "name": "Data Analyst",
+  "url": "https://hh.ru/vacancy/51851223?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d9b"
+  },
+  "name": "Senior Research Scientist",
+  "url": "https://hh.ru/vacancy/47173112?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d9c"
+  },
+  "name": "Data scientist (Juniour-Middle)",
+  "url": "https://hh.ru/vacancy/53000866?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d9d"
+  },
+  "name": "Junior/Middle Data Scientist (NLP, Новостной мониторинг)",
+  "url": "https://hh.ru/vacancy/52895372?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d9e"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/50638799?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550d9f"
+  },
+  "name": "Junior/Middle Data Scientist/ML",
+  "url": "https://hh.ru/vacancy/45694394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3ab8ae7ed7b1550da0"
+  },
+  "name": "Data Scientist/Математик",
+  "url": "https://hh.ru/vacancy/52904266?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 119000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550da1"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/49642851?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550da2"
+  },
+  "name": "Python-разработчик (Middle+/Senior Python Developer)",
+  "url": "https://hh.ru/vacancy/51343802?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 250000,
+  "salary_max": 400000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550da3"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/50369358?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550da4"
+  },
+  "name": "Data Scientist (международная IT компания)",
+  "url": "https://hh.ru/vacancy/52124576?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550da5"
+  },
+  "name": "Senior Data Scientist Стрим «Модели партнерств и платформы больших данных» (Big Data)",
+  "url": "https://hh.ru/vacancy/49766992?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550da6"
+  },
+  "name": "Senior Data Scientist / Старший менеджер по обработке данных",
+  "url": "https://hh.ru/vacancy/53023799?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550da7"
+  },
+  "name": "Data scientist по построению моделей оценки кредитного риска (Big Data)",
+  "url": "https://hh.ru/vacancy/43366306?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550da8"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52246460?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550da9"
+  },
+  "name": "Data Scientist в области рекомендательных систем",
+  "url": "https://hh.ru/vacancy/51947336?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550daa"
+  },
+  "name": "Lead Data Scientist",
+  "url": "https://hh.ru/vacancy/48420232?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550dab"
+  },
+  "name": "Data scientist/analyst",
+  "url": "https://hh.ru/vacancy/51615453?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550dac"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52046753?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550dad"
+  },
+  "name": "Data Scientist в Сбер",
+  "url": "https://hh.ru/vacancy/51471424?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550dae"
+  },
+  "name": "Senior Data Scientist / Старший Аналитик (Эконометрическое моделирование)",
+  "url": "https://hh.ru/vacancy/49506559?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550daf"
+  },
+  "name": "Lead data scientist",
+  "url": "https://hh.ru/vacancy/49970105?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 300000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550db0"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52810561?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550db1"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/48701267?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550db2"
+  },
+  "name": "Data Analyst (Amazon) / Аналитик данных",
+  "url": "https://hh.ru/vacancy/52895649?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550db3"
+  },
+  "name": "Старший менеджер продукта (Big Data)",
+  "url": "https://hh.ru/vacancy/52418846?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550db4"
+  },
+  "name": "Специалист по анализу данных/Data scientist",
+  "url": "https://hh.ru/vacancy/51807306?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3bb8ae7ed7b1550db5"
+  },
+  "name": "Data Scientist (команда Поиска)",
+  "url": "https://hh.ru/vacancy/46048820?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550db6"
+  },
+  "name": "Data Scientist (DataUnicorn.Al team)",
+  "url": "https://hh.ru/vacancy/50570429?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550db7"
+  },
+  "name": "PowerBi/Business Intelligence Analyst",
+  "url": "https://hh.ru/vacancy/44434198?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550db8"
+  },
+  "name": "Data analyst (развитие источников данных Big Data)",
+  "url": "https://hh.ru/vacancy/53016798?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550db9"
+  },
+  "name": "Senior Research Scientist",
+  "url": "https://hh.ru/vacancy/52041517?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dba"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52834781?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dbb"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/48883994?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dbc"
+  },
+  "name": "Lead data scientist",
+  "url": "https://hh.ru/vacancy/52421169?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 300000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dbd"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52631700?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 600000,
+  "salary_max": 1800000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dbe"
+  },
+  "name": "Data Scientist (Центр валидации моделей сервисных блоков и экосистемы)",
+  "url": "https://hh.ru/vacancy/52801201?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dbf"
+  },
+  "name": "Data Engineer (Middle)",
+  "url": "https://hh.ru/vacancy/51361120?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 170000,
+  "salary_max": 350000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dc0"
+  },
+  "name": "Data Analyst / Data Scientist",
+  "url": "https://hh.ru/vacancy/52813146?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dc1"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/52904158?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dc2"
+  },
+  "name": "Data Scientist/ML Engineer",
+  "url": "https://hh.ru/vacancy/53072509?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dc3"
+  },
+  "name": "Bioinformatics scientist",
+  "url": "https://hh.ru/vacancy/51640902?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dc4"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/48995237?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dc5"
+  },
+  "name": "Data scientist в команду Cash counting & transportation",
+  "url": "https://hh.ru/vacancy/53005564?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dc6"
+  },
+  "name": "Data Scientist в направление «Ценообразование»",
+  "url": "https://hh.ru/vacancy/51649877?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dc7"
+  },
+  "name": "Middle Data Scientist (команда \"Моделисты\")",
+  "url": "https://hh.ru/vacancy/52947663?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3cb8ae7ed7b1550dc8"
+  },
+  "name": "Data Scientist (NLP)",
+  "url": "https://hh.ru/vacancy/51857694?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dc9"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/51866552?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dca"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52046752?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dcb"
+  },
+  "name": "Специалист по машинному обучению / data scientist",
+  "url": "https://hh.ru/vacancy/52627620?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dcc"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/51437981?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 250000,
+  "salary_max": 350000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dcd"
+  },
+  "name": "Data Scientist (аудит информационных технологий)",
+  "url": "https://hh.ru/vacancy/52915595?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dce"
+  },
+  "name": "Product Owner (Market Data)",
+  "url": "https://hh.ru/vacancy/52662565?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dcf"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/51684942?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd0"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/48428526?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd1"
+  },
+  "name": "Data Engineer SberChat",
+  "url": "https://hh.ru/vacancy/48396556?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd2"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/50236217?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd3"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/47752047?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd4"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/51361306?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": 400000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd5"
+  },
+  "name": "Data Analyst / Аналитик данных (Amazon)",
+  "url": "https://hh.ru/vacancy/52895641?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd6"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52895708?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd7"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/53186394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd8"
+  },
+  "name": "Data scientist (розничные риски)",
+  "url": "https://hh.ru/vacancy/52908911?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dd9"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/51361307?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": 400000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dda"
+  },
+  "name": "Аналитик BI, Data Scientist, BI Architect",
+  "url": "https://hh.ru/vacancy/52890032?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550ddb"
+  },
+  "name": "Data Scientist / Machine Learning Engineer",
+  "url": "https://hh.ru/vacancy/48484577?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550ddc"
+  },
+  "name": "Data Scientist (Цифровой кредитный мониторинг)",
+  "url": "https://hh.ru/vacancy/52946669?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550ddd"
+  },
+  "name": "Data Scientist в СберМаркет в команду эффективности платформы",
+  "url": "https://hh.ru/vacancy/50883995?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550dde"
+  },
+  "name": "Junior Data Scientist",
+  "url": "https://hh.ru/vacancy/52516890?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550ddf"
+  },
+  "name": "Data Scientist в СберМаркет [команда поиска]",
+  "url": "https://hh.ru/vacancy/50883994?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3db8ae7ed7b1550de0"
+  },
+  "name": "Quant / Data Scientist (Руководитель направления Управление рисками)",
+  "url": "https://hh.ru/vacancy/51869715?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550de1"
+  },
+  "name": "Lead Data Scientist",
+  "url": "https://hh.ru/vacancy/51716348?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550de2"
+  },
+  "name": "Business Analyst (BI) to Cyprus",
+  "url": "https://hh.ru/vacancy/52588378?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 4000,
+  "salary_max": 6000,
+  "salary_currency": "EUR"
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550de3"
+  },
+  "name": "Data Scientist в СберМаркет в команду эффективности платформы",
+  "url": "https://hh.ru/vacancy/50883997?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550de4"
+  },
+  "name": "Lead Data Scientist",
+  "url": "https://hh.ru/vacancy/49642907?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550de5"
+  },
+  "name": "Инженер-программист/ математик (Data Engineer / Data Scientist)",
+  "url": "https://hh.ru/vacancy/52452813?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550de6"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/50490211?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 1500,
+  "salary_max": 3000,
+  "salary_currency": "USD"
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550de7"
+  },
+  "name": "Data scientist (Центр валидации моделей розничного бизнеса)",
+  "url": "https://hh.ru/vacancy/52595636?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550de8"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52046754?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550de9"
+  },
+  "name": "Senior Data Developer/Software Developer (Разработчик cистемы по работе с данными)",
+  "url": "https://hh.ru/vacancy/53271022?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550dea"
+  },
+  "name": "Data Scientist (NLP)",
+  "url": "https://hh.ru/vacancy/50510959?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550deb"
+  },
+  "name": "Data Scientist (Senior)",
+  "url": "https://hh.ru/vacancy/48355108?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550dec"
+  },
+  "name": "Senior IT Professional - Data Analyst / Technical Analyst",
+  "url": "https://hh.ru/vacancy/52692031?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550ded"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/52623157?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550dee"
+  },
+  "name": "Data Scientist (CV+NLP)",
+  "url": "https://hh.ru/vacancy/52951017?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550def"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/50584852?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550df0"
+  },
+  "name": "Data Scientist (Scala)",
+  "url": "https://hh.ru/vacancy/52892365?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550df1"
+  },
+  "name": "Data Scientist, Поиск",
+  "url": "https://hh.ru/vacancy/51804231?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550df2"
+  },
+  "name": "Data Scientist (анализ коммуникаций)",
+  "url": "https://hh.ru/vacancy/52540542?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550df3"
+  },
+  "name": "Data Scientist/ Data Analyst",
+  "url": "https://hh.ru/vacancy/52568279?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550df4"
+  },
+  "name": "Data Analyst / Data Engineer",
+  "url": "https://hh.ru/vacancy/52634873?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550df5"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/52890457?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550df6"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/52342982?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550df7"
+  },
+  "name": "NLP Data Scientist",
+  "url": "https://hh.ru/vacancy/49702248?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3eb8ae7ed7b1550df8"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52683994?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550df9"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52246463?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550dfa"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/51404793?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550dfb"
+  },
+  "name": "Lead Data Scientist (NLP)",
+  "url": "https://hh.ru/vacancy/51703912?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550dfc"
+  },
+  "name": "Руководитель аналитического отдела/Data Scientist, Machine Learning",
+  "url": "https://hh.ru/vacancy/52948853?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 100000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550dfd"
+  },
+  "name": "Senior Data Scientist (Агентство Starlink)",
+  "url": "https://hh.ru/vacancy/51091771?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550dfe"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/51650129?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550dff"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/52615646?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e00"
+  },
+  "name": "Big Data Developer with Python/Spark/AWS",
+  "url": "https://hh.ru/vacancy/53218052?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e01"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/51611398?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e02"
+  },
+  "name": "Junior Data Scientist",
+  "url": "https://hh.ru/vacancy/52396406?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e03"
+  },
+  "name": "Data scientist/разработка моделей оценки кредитного риска для клиентов малого и среднего бизнеса",
+  "url": "https://hh.ru/vacancy/43694876?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e04"
+  },
+  "name": "Data Scientist (NLP)",
+  "url": "https://hh.ru/vacancy/52912168?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e05"
+  },
+  "name": "ML Engineer/ Data Scientist",
+  "url": "https://hh.ru/vacancy/52346238?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e06"
+  },
+  "name": "Senior Data scientist",
+  "url": "https://hh.ru/vacancy/50477564?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e07"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/51779652?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e08"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52246459?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a3fb8ae7ed7b1550e09"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/50477433?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e0a"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52108340?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e0b"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/47865356?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e0c"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/51395685?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e0d"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/45570540?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e0e"
+  },
+  "name": "Аналитик/Data Scientist",
+  "url": "https://hh.ru/vacancy/51895906?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e0f"
+  },
+  "name": "Product Placement Scientist",
+  "url": "https://hh.ru/vacancy/51842838?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e10"
+  },
+  "name": "Junior Data Scientist",
+  "url": "https://hh.ru/vacancy/52396404?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e11"
+  },
+  "name": "Bioinformatics scientist",
+  "url": "https://hh.ru/vacancy/51640903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e12"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/52671576?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e13"
+  },
+  "name": "Data Scientist (динамическое ценообразование в девелопменте)",
+  "url": "https://hh.ru/vacancy/52591986?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e14"
+  },
+  "name": "ML Engineer / Data Scientist",
+  "url": "https://hh.ru/vacancy/50449099?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e15"
+  },
+  "name": "Аналитик/Data scientist",
+  "url": "https://hh.ru/vacancy/52496525?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e16"
+  },
+  "name": "Business Analyst (BI) to Cyprus",
+  "url": "https://hh.ru/vacancy/52588379?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 4000,
+  "salary_max": 6000,
+  "salary_currency": "EUR"
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e17"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/52816763?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e18"
+  },
+  "name": "Data scientist (проект \"Музыка\")",
+  "url": "https://hh.ru/vacancy/47094497?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e19"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/50602043?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e1a"
+  },
+  "name": "Junior Data Scientist",
+  "url": "https://hh.ru/vacancy/51000491?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e1b"
+  },
+  "name": "Lead Data Scientist",
+  "url": "https://hh.ru/vacancy/52426413?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e1c"
+  },
+  "name": "Data Scientist (Группа сервисов вычислительной химии)",
+  "url": "https://hh.ru/vacancy/52618282?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e1d"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/52546883?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e1e"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/51390492?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e1f"
+  },
+  "name": "Data Science Team Lead (ML)",
+  "url": "https://hh.ru/vacancy/52996627?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e20"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/53067412?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a40b8ae7ed7b1550e21"
+  },
+  "name": "Data Science",
+  "url": "https://hh.ru/vacancy/52687114?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e22"
+  },
+  "name": "Data Engineer в Розничный бизнес на построение ХД",
+  "url": "https://hh.ru/vacancy/53081133?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e23"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52466493?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e24"
+  },
+  "name": "Junior Data Scientist",
+  "url": "https://hh.ru/vacancy/52345073?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e25"
+  },
+  "name": "ML Engineer/ Data Scientist",
+  "url": "https://hh.ru/vacancy/52346200?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e26"
+  },
+  "name": "Graph Analytics Engineer",
+  "url": "https://hh.ru/vacancy/48926799?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e27"
+  },
+  "name": "Data Scientist / Менеджер по обработке данных",
+  "url": "https://hh.ru/vacancy/52495963?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e28"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52684511?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e29"
+  },
+  "name": "Data Scientist (Поиск/Товарные рекомендации)",
+  "url": "https://hh.ru/vacancy/52613361?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e2a"
+  },
+  "name": "Data scientist (проект \"Моменты\")",
+  "url": "https://hh.ru/vacancy/47095350?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e2b"
+  },
+  "name": "Data scientist (Marketing)",
+  "url": "https://hh.ru/vacancy/52687302?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e2c"
+  },
+  "name": "Data Scientist (Направление разработки моделей оценки кредитных рисков)",
+  "url": "https://hh.ru/vacancy/52801225?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e2d"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52255332?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e2e"
+  },
+  "name": "Biomedical data curation professional",
+  "url": "https://hh.ru/vacancy/52675234?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e2f"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52255333?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e30"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/52464031?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e31"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/50495615?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e32"
+  },
+  "name": "Junior Data Scientist NLP (Comprehend360)",
+  "url": "https://hh.ru/vacancy/52155108?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e33"
+  },
+  "name": "Team Lead Data scientist (Управление рисками корпоративных клиентов)",
+  "url": "https://hh.ru/vacancy/52420037?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e34"
+  },
+  "name": "Аналитик данных (Data Analyst)",
+  "url": "https://hh.ru/vacancy/52183579?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 140000,
+  "salary_max": 200000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e35"
+  },
+  "name": "Data Scientist (Retail Risk)",
+  "url": "https://hh.ru/vacancy/52328232?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e36"
+  },
+  "name": "Data Scientist (Кипр)",
+  "url": "https://hh.ru/vacancy/52185396?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a41b8ae7ed7b1550e37"
+  },
+  "name": "Математик-аналитик (data scientist / data analyst)",
+  "url": "https://hh.ru/vacancy/52237400?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 98000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e38"
+  },
+  "name": "Data Scientist в команду CVM AI",
+  "url": "https://hh.ru/vacancy/52343903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e39"
+  },
+  "name": "Data Scientist (Antifraud)",
+  "url": "https://hh.ru/vacancy/52229992?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e3a"
+  },
+  "name": "Директор (Data scientist) Управления модельных рисков и валидации",
+  "url": "https://hh.ru/vacancy/52178650?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e3b"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52624716?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 250000,
+  "salary_max": 350000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e3c"
+  },
+  "name": "Эксперт/ главный специалист (Data scientist), Управление модельных рисков и валидации",
+  "url": "https://hh.ru/vacancy/50986854?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e3d"
+  },
+  "name": "Data Scientist / ML-инженер (Big Data)",
+  "url": "https://hh.ru/vacancy/50917519?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e3e"
+  },
+  "name": "Аналитик данных (Data scientist)",
+  "url": "https://hh.ru/vacancy/51239177?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e3f"
+  },
+  "name": "Senior/Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/52327250?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 200000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e40"
+  },
+  "name": "Senior Data Engineer",
+  "url": "https://hh.ru/vacancy/51617657?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e41"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52199063?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e42"
+  },
+  "name": "Аналитик данных (Data scientist)",
+  "url": "https://hh.ru/vacancy/51239173?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e43"
+  },
+  "name": "Business Analyst",
+  "url": "https://hh.ru/vacancy/52402525?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e44"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/50922463?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e45"
+  },
+  "name": "Data Scientist (направление промышленной разработки библиотеки)",
+  "url": "https://hh.ru/vacancy/52266061?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e46"
+  },
+  "name": "NLP developer/NLP engineer/Data Scientist",
+  "url": "https://hh.ru/vacancy/52209407?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 300000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e47"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/52410057?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a42b8ae7ed7b1550e48"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52255336?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e49"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/51263587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e4a"
+  },
+  "name": "Data Scientist (computer vision, социальная коммерция)",
+  "url": "https://hh.ru/vacancy/51032717?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e4b"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/47498876?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e4c"
+  },
+  "name": "Junior Product Manager/Data Analyst",
+  "url": "https://hh.ru/vacancy/51982020?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e4d"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/52815892?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e4e"
+  },
+  "name": "Senior/ Team Lead Data Scientist",
+  "url": "https://hh.ru/vacancy/52568160?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e4f"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52332774?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e50"
+  },
+  "name": "Data Scientist/ML",
+  "url": "https://hh.ru/vacancy/52190885?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e51"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52222748?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e52"
+  },
+  "name": "Data Scientist NLP (Глобальные рынки)",
+  "url": "https://hh.ru/vacancy/52261977?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e53"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/52418597?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e54"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52248194?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e55"
+  },
+  "name": "Data Science Team Lead",
+  "url": "https://hh.ru/vacancy/50087171?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e56"
+  },
+  "name": "Data engineer",
+  "url": "https://hh.ru/vacancy/52209063?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e57"
+  },
+  "name": "Data Scientist (Senior)",
+  "url": "https://hh.ru/vacancy/52247534?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e58"
+  },
+  "name": "Business Analyst",
+  "url": "https://hh.ru/vacancy/52402480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e59"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52153197?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e5a"
+  },
+  "name": "Data Engineer (Санкт-Петербург)",
+  "url": "https://hh.ru/vacancy/53019844?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e5b"
+  },
+  "name": "Data Scientist, Социальная коммерция",
+  "url": "https://hh.ru/vacancy/52242219?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e5c"
+  },
+  "name": "Data Scientist (Fintech)",
+  "url": "https://hh.ru/vacancy/52205974?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e5d"
+  },
+  "name": "Data scientist",
+  "url": "https://hh.ru/vacancy/52480114?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e5e"
+  },
+  "name": "Data Scientist (NLP, распознавание речи)",
+  "url": "https://hh.ru/vacancy/45708106?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a43b8ae7ed7b1550e5f"
+  },
+  "name": "Data Scientist (Fintech)",
+  "url": "https://hh.ru/vacancy/52205975?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e60"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52219113?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e61"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52255335?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e62"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52210872?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e63"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52255337?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e64"
+  },
+  "name": "Data scientist (Middle)",
+  "url": "https://hh.ru/vacancy/52348851?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e65"
+  },
+  "name": "Инженер программист ML / Data Scientist",
+  "url": "https://hh.ru/vacancy/49758302?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 70000,
+  "salary_max": 90000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e66"
+  },
+  "name": "ML разработчик / Data Scientist",
+  "url": "https://hh.ru/vacancy/51050804?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e67"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52167082?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e68"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/52238703?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e69"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/52599434?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e6a"
+  },
+  "name": "Data Scientist / Sr. Data Scientist",
+  "url": "https://hh.ru/vacancy/50074008?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e6b"
+  },
+  "name": "Team Lead Data Scientist (Antifraud)",
+  "url": "https://hh.ru/vacancy/52210242?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e6c"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/50949415?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e6d"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52218639?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a44b8ae7ed7b1550e6e"
+  },
+  "name": "Аналитик данных Big Data (SQL)",
+  "url": "https://hh.ru/vacancy/52222310?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 90000,
+  "salary_max": 150000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e6f"
+  },
+  "name": "Senior BigData Developer with Python / Spark / AWS",
+  "url": "https://hh.ru/vacancy/52231637?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e70"
+  },
+  "name": "Data Engineer",
+  "url": "https://hh.ru/vacancy/52599433?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e71"
+  },
+  "name": "Senior Data Analyst",
+  "url": "https://hh.ru/vacancy/44146638?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e72"
+  },
+  "name": "Data Engineer / Python Developer",
+  "url": "https://hh.ru/vacancy/52837500?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e73"
+  },
+  "name": "Senior data scientist",
+  "url": "https://hh.ru/vacancy/52495965?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e74"
+  },
+  "name": "Data Scientist (Отдел аудита обеспечивающих процессов)",
+  "url": "https://hh.ru/vacancy/52252944?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e75"
+  },
+  "name": "Team Lead Data Scientist",
+  "url": "https://hh.ru/vacancy/52479646?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e76"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/52416155?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 134800,
+  "salary_max": 230000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e77"
+  },
+  "name": "Data scientist (проект \"Обсуждения\")",
+  "url": "https://hh.ru/vacancy/52262473?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e78"
+  },
+  "name": "Data scientist (ML модели)",
+  "url": "https://hh.ru/vacancy/52188637?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e79"
+  },
+  "name": "ML Engineer",
+  "url": "https://hh.ru/vacancy/53156255?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e7a"
+  },
+  "name": "Data Engineer (Дата инженер)",
+  "url": "https://hh.ru/vacancy/46619254?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e7b"
+  },
+  "name": "Senior/Team Lead Data-Scientist",
+  "url": "https://hh.ru/vacancy/46161506?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e7c"
+  },
+  "name": "Data Scientist (Middle)",
+  "url": "https://hh.ru/vacancy/52217377?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e7d"
+  },
+  "name": "Data Engineer, Saint Petersburg",
+  "url": "https://hh.ru/vacancy/52952203?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e7e"
+  },
+  "name": "Senior Data Scientist в команду CVM AI",
+  "url": "https://hh.ru/vacancy/52219316?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e7f"
+  },
+  "name": "Senior/Team Lead Data Scientist",
+  "url": "https://hh.ru/vacancy/52568221?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e80"
+  },
+  "name": "Data Engineer (Hadoop/Greenplum/Teradata)",
+  "url": "https://hh.ru/vacancy/52568134?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e81"
+  },
+  "name": "Data Engineer направления разработки витрин данных",
+  "url": "https://hh.ru/vacancy/50985152?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e82"
+  },
+  "name": "Senior/Team Lead Data Scientist",
+  "url": "https://hh.ru/vacancy/52169199?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e83"
+  },
+  "name": "Data Scientist (Montenegro)",
+  "url": "https://hh.ru/vacancy/52260222?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e84"
+  },
+  "name": "Senior Data Scientist",
+  "url": "https://hh.ru/vacancy/52568288?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a45b8ae7ed7b1550e85"
+  },
+  "name": "Team Lead Data Scientist (RecSys, NLP, CV)",
+  "url": "https://hh.ru/vacancy/52296274?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e86"
+  },
+  "name": "Senior BigData Developer with Python / Spark / AWS",
+  "url": "https://hh.ru/vacancy/49864160?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e87"
+  },
+  "name": "Преподаватель по Data Science (Machine Learning)",
+  "url": "https://hh.ru/vacancy/51334447?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e88"
+  },
+  "name": "Machine Learning Engineer",
+  "url": "https://hh.ru/vacancy/52528474?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e89"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/52153776?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e8a"
+  },
+  "name": "Middle Data Scientist",
+  "url": "https://hh.ru/vacancy/52153698?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e8b"
+  },
+  "name": "Big Data Engineer",
+  "url": "https://hh.ru/vacancy/51429320?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e8c"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52046755?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e8d"
+  },
+  "name": "Senior Data Scientist / Senior ML Developer",
+  "url": "https://hh.ru/vacancy/49440010?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e8e"
+  },
+  "name": "Data Scientist (Montenegro)",
+  "url": "https://hh.ru/vacancy/52260221?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e8f"
+  },
+  "name": "Python Developer (Data Lab Team)",
+  "url": "https://hh.ru/vacancy/52668196?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 220000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e90"
+  },
+  "name": "Скоринг-аналитик / Data scientist / Аналитик (скоринг)",
+  "url": "https://hh.ru/vacancy/52239244?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e91"
+  },
+  "name": "Скоринг-аналитик / Data scientist / Аналитик (скоринг)",
+  "url": "https://hh.ru/vacancy/52238945?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e92"
+  },
+  "name": "Ревьюер на курс по \"Data Engineering\"",
+  "url": "https://hh.ru/vacancy/51645841?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e93"
+  },
+  "name": "Инженер данных/Data engineer",
+  "url": "https://hh.ru/vacancy/52253233?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e94"
+  },
+  "name": "Специалист по машинному обучению / Data Scientist (FinTech)",
+  "url": "https://hh.ru/vacancy/51328744?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 100000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e95"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/52255334?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e96"
+  },
+  "name": "Senior Python разработчик",
+  "url": "https://hh.ru/vacancy/51349355?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e97"
+  },
+  "name": "Стажер Data scientist",
+  "url": "https://hh.ru/vacancy/52118395?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e98"
+  },
+  "name": "Data Scientist",
+  "url": "https://hh.ru/vacancy/50939472?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e99"
+  },
+  "name": "Аналитик DWH",
+  "url": "https://hh.ru/vacancy/51627402?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e9a"
+  },
+  "name": "Deep Learning Software Engineer (Federated Learning/Computer Vision)",
+  "url": "https://hh.ru/vacancy/52426252?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e9b"
+  },
+  "name": "Стажер Data Scientist",
+  "url": "https://hh.ru/vacancy/53206461?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e9c"
+  },
+  "name": "Скоринг-аналитик / Data scientist / Аналитик (скоринг)",
+  "url": "https://hh.ru/vacancy/52119802?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e9d"
+  },
+  "name": "Senior software/data engineer",
+  "url": "https://hh.ru/vacancy/52421163?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a46b8ae7ed7b1550e9e"
+  },
+  "name": "Digital Marketing & Data Science Professional",
+  "url": "https://hh.ru/vacancy/51898090?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550e9f"
+  },
+  "name": "AI researcher",
+  "url": "https://hh.ru/vacancy/52400877?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea0"
+  },
+  "name": "Senior ML Engineer",
+  "url": "https://hh.ru/vacancy/52472957?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea1"
+  },
+  "name": "Data Engineer / Data Integration Manager",
+  "url": "https://hh.ru/vacancy/52203032?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea2"
+  },
+  "name": "Research Scientist / Research Engineer (machine learning)",
+  "url": "https://hh.ru/vacancy/49957519?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea3"
+  },
+  "name": "Системный аналитик в команду сбора статистики",
+  "url": "https://hh.ru/vacancy/52877831?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea4"
+  },
+  "name": "FrontEnd developer (Vue)",
+  "url": "https://hh.ru/vacancy/53176951?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea5"
+  },
+  "name": "IT recruiter",
+  "url": "https://hh.ru/vacancy/51107027?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 130000,
+  "salary_max": 200000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea6"
+  },
+  "name": "IT Recruitment Sourcer",
+  "url": "https://hh.ru/vacancy/53406950?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea7"
+  },
+  "name": "Помощник аналитика",
+  "url": "https://hh.ru/vacancy/52839411?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 30000,
+  "salary_max": null,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea8"
+  },
+  "name": "Бизнес-аналитик (Тинькофф Бизнес)",
+  "url": "https://hh.ru/vacancy/52404774?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ea9"
+  },
+  "name": "Python developer (R&D)",
+  "url": "https://hh.ru/vacancy/50715271?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eaa"
+  },
+  "name": "Портфельный риск-менеджер (коллекшн)",
+  "url": "https://hh.ru/vacancy/53421776?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eab"
+  },
+  "name": "Портфельный риск-менеджер (удаленно)",
+  "url": "https://hh.ru/vacancy/50729443?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eac"
+  },
+  "name": "Senior Client Consultant (market research, FMCG sector)",
+  "url": "https://hh.ru/vacancy/53292741?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550ead"
+  },
+  "name": "Портфельный риск-менеджер",
+  "url": "https://hh.ru/vacancy/50729442?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eae"
+  },
+  "name": "Devops Engineer Hadoop/ Администратор Hadoop (удаленно)",
+  "url": "https://hh.ru/vacancy/53162068?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eaf"
+  },
+  "name": "Портфельный риск-менеджер (Автокредит)",
+  "url": "https://hh.ru/vacancy/53420992?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eb0"
+  },
+  "name": "Инженер данных / DE (удалённо)",
+  "url": "https://hh.ru/vacancy/52818619?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eb1"
+  },
+  "name": "Аналитик (страховые риски)",
+  "url": "https://hh.ru/vacancy/52845142?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eb2"
+  },
+  "name": "IT Solution/System Architect",
+  "url": "https://hh.ru/vacancy/52211023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 379088,
+  "salary_max": 492817,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eb3"
+  },
+  "name": "Software Engineer",
+  "url": "https://hh.ru/vacancy/53284092?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eb4"
+  },
+  "name": "Senior Python Developer",
+  "url": "https://hh.ru/vacancy/52151550?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a47b8ae7ed7b1550eb5"
+  },
+  "name": "Старший аналитик",
+  "url": "https://hh.ru/vacancy/50923921?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550eb6"
+  },
+  "name": "Team Lead Data/Software Developer",
+  "url": "https://hh.ru/vacancy/53426758?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550eb7"
+  },
+  "name": "Директор по данным",
+  "url": "https://hh.ru/vacancy/53234750?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550eb8"
+  },
+  "name": "Employer Brand Director",
+  "url": "https://hh.ru/vacancy/53261229?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550eb9"
+  },
+  "name": "Indonesian Copywriter",
+  "url": "https://hh.ru/vacancy/53323081?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550eba"
+  },
+  "name": "Client Consultant (market research, FMCG sector)",
+  "url": "https://hh.ru/vacancy/53292712?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ebb"
+  },
+  "name": "Руководитель направления Data-аналитики",
+  "url": "https://hh.ru/vacancy/53267559?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ebc"
+  },
+  "name": "Indonesian Copywriter",
+  "url": "https://hh.ru/vacancy/53323079?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ebd"
+  },
+  "name": "Senior Software Engineer with Proficiency in Algorithms and Math",
+  "url": "https://hh.ru/vacancy/52528513?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 5000,
+  "salary_max": null,
+  "salary_currency": "USD"
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ebe"
+  },
+  "name": "Indonesian Copywriter",
+  "url": "https://hh.ru/vacancy/53323080?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ebf"
+  },
+  "name": "Portuguese (Brazillian) Copywriter",
+  "url": "https://hh.ru/vacancy/53323305?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec0"
+  },
+  "name": "Spanish Copywriter",
+  "url": "https://hh.ru/vacancy/53323609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec1"
+  },
+  "name": "Portuguese (Brazillian) Copywriter",
+  "url": "https://hh.ru/vacancy/53323304?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec2"
+  },
+  "name": "Spanish Copywriter",
+  "url": "https://hh.ru/vacancy/53323610?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec3"
+  },
+  "name": "Spanish Copywriter",
+  "url": "https://hh.ru/vacancy/53323608?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec4"
+  },
+  "name": "Java-разработчик",
+  "url": "https://hh.ru/vacancy/53324859?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec5"
+  },
+  "name": "Portuguese (Brazillian) Copywriter",
+  "url": "https://hh.ru/vacancy/53323306?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec6"
+  },
+  "name": "Client Consultant (market research, FMCG sector)",
+  "url": "https://hh.ru/vacancy/53313996?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec7"
+  },
+  "name": "Системный аналитик в команду сбора статистики",
+  "url": "https://hh.ru/vacancy/52877852?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec8"
+  },
+  "name": "Java-разработчик (Middle)",
+  "url": "https://hh.ru/vacancy/53384011?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ec9"
+  },
+  "name": "Системный аналитик в команду сбора статистики",
+  "url": "https://hh.ru/vacancy/52877830?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550eca"
+  },
+  "name": "Java-разработчик",
+  "url": "https://hh.ru/vacancy/52157308?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ecb"
+  },
+  "name": "Системный аналитик в команду сбора статистики",
+  "url": "https://hh.ru/vacancy/52877496?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ecc"
+  },
+  "name": "Python Team Lead",
+  "url": "https://hh.ru/vacancy/49162369?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a48b8ae7ed7b1550ecd"
+  },
+  "name": "Sber X Product Analyst",
+  "url": "https://hh.ru/vacancy/53031214?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ece"
+  },
+  "name": "Системный аналитик (Helicopter)",
+  "url": "https://hh.ru/vacancy/50116521?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ecf"
+  },
+  "name": "Product manager - Delivery B2B",
+  "url": "https://hh.ru/vacancy/50197587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed0"
+  },
+  "name": "Product manager",
+  "url": "https://hh.ru/vacancy/49804815?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed1"
+  },
+  "name": "HR-аналитик",
+  "url": "https://hh.ru/vacancy/51864981?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed2"
+  },
+  "name": "Системный аналитик (Helicopter)",
+  "url": "https://hh.ru/vacancy/50116520?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed3"
+  },
+  "name": "Технический руководитель проектов",
+  "url": "https://hh.ru/vacancy/52246718?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed4"
+  },
+  "name": "Технический руководитель проектов",
+  "url": "https://hh.ru/vacancy/52246487?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed5"
+  },
+  "name": "Технический руководитель проектов",
+  "url": "https://hh.ru/vacancy/51657032?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed6"
+  },
+  "name": "Старший аналитик BI (группа интеграции)",
+  "url": "https://hh.ru/vacancy/48448304?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed7"
+  },
+  "name": "Менеджер по подбору персонала (IT) / IT Recruiter",
+  "url": "https://hh.ru/vacancy/53166861?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed8"
+  },
+  "name": "Менеджер по работе с данными (CDO)",
+  "url": "https://hh.ru/vacancy/52146179?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ed9"
+  },
+  "name": "DevOps/Инфраструктурный инженер",
+  "url": "https://hh.ru/vacancy/53161537?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550eda"
+  },
+  "name": "Системный аналитик",
+  "url": "https://hh.ru/vacancy/53166035?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550edb"
+  },
+  "name": "Бренд-директор",
+  "url": "https://hh.ru/vacancy/53235324?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550edc"
+  },
+  "name": "Golang developer",
+  "url": "https://hh.ru/vacancy/46660501?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550edd"
+  },
+  "name": "Deep Learning Software Engineer (Federated Learning/Computer Vision)",
+  "url": "https://hh.ru/vacancy/49871833?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ede"
+  },
+  "name": "IT рекрутер",
+  "url": "https://hh.ru/vacancy/49759419?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 80000,
+  "salary_max": 130000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550edf"
+  },
+  "name": "Supply Efficiency Analyst",
+  "url": "https://hh.ru/vacancy/52158626?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ee0"
+  },
+  "name": "Менеджер продукта (Тинькофф Бизнес)",
+  "url": "https://hh.ru/vacancy/53237436?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ee1"
+  },
+  "name": "IT рекрутер",
+  "url": "https://hh.ru/vacancy/48526485?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 80000,
+  "salary_max": 120000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ee2"
+  },
+  "name": "Технический руководитель проектов",
+  "url": "https://hh.ru/vacancy/52246717?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ee3"
+  },
+  "name": "C#/ .Net Backend Developer with Azure",
+  "url": "https://hh.ru/vacancy/52797425?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a49b8ae7ed7b1550ee4"
+  },
+  "name": "Team Lead",
+  "url": "https://hh.ru/vacancy/52839917?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ee5"
+  },
+  "name": "Ведущий аналитик",
+  "url": "https://hh.ru/vacancy/52832959?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ee6"
+  },
+  "name": "Python разработчик",
+  "url": "https://hh.ru/vacancy/52809349?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ee7"
+  },
+  "name": "Test engineer",
+  "url": "https://hh.ru/vacancy/50856138?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ee8"
+  },
+  "name": "Риск-аналитик (розничные риски)",
+  "url": "https://hh.ru/vacancy/52910056?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ee9"
+  },
+  "name": "Scala разработчик",
+  "url": "https://hh.ru/vacancy/51882397?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550eea"
+  },
+  "name": "NLP-инженер",
+  "url": "https://hh.ru/vacancy/52909564?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550eeb"
+  },
+  "name": "Менеджер по подбору персонала (IT) / IT Recruiter",
+  "url": "https://hh.ru/vacancy/53166840?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550eec"
+  },
+  "name": "IT Recruiter (Middle/ Senior)",
+  "url": "https://hh.ru/vacancy/49465100?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550eed"
+  },
+  "name": "Java разработчик (Hadoop)",
+  "url": "https://hh.ru/vacancy/53007856?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550eee"
+  },
+  "name": "Руководитель команды Отчетности и аналитики",
+  "url": "https://hh.ru/vacancy/53032408?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550eef"
+  },
+  "name": "Client Executive (retail chains)",
+  "url": "https://hh.ru/vacancy/51100104?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ef0"
+  },
+  "name": "Системный аналитик (Сбер)",
+  "url": "https://hh.ru/vacancy/52846903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ef1"
+  },
+  "name": "FullStack Developer",
+  "url": "https://hh.ru/vacancy/52914330?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ef2"
+  },
+  "name": "Java разработчик (команда SafeData)",
+  "url": "https://hh.ru/vacancy/53007846?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ef3"
+  },
+  "name": "IT recruiter",
+  "url": "https://hh.ru/vacancy/52302300?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 130000,
+  "salary_max": 200000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ef4"
+  },
+  "name": "Ассистент программиста DS",
+  "url": "https://hh.ru/vacancy/52246034?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ef5"
+  },
+  "name": "Ассистент программиста DS",
+  "url": "https://hh.ru/vacancy/52246036?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ef6"
+  },
+  "name": "Senior Python разработчик (МЦТП)",
+  "url": "https://hh.ru/vacancy/51969717?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ef7"
+  },
+  "name": "Системный аналитик",
+  "url": "https://hh.ru/vacancy/52412739?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4ab8ae7ed7b1550ef8"
+  },
+  "name": "Менеджер по продажам курсов в сфере IT и Digital в Synergy Academy",
+  "url": "https://hh.ru/vacancy/52621006?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 55000,
+  "salary_max": 80000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550ef9"
+  },
+  "name": "HR дженералист /IT рекрутер",
+  "url": "https://hh.ru/vacancy/52482076?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550efa"
+  },
+  "name": "Ассистент программиста DS",
+  "url": "https://hh.ru/vacancy/52246033?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550efb"
+  },
+  "name": "Инженер данных (Data Office)",
+  "url": "https://hh.ru/vacancy/45652212?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550efc"
+  },
+  "name": "Аналитик A/B платформы",
+  "url": "https://hh.ru/vacancy/51273285?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550efd"
+  },
+  "name": "Дата инженер",
+  "url": "https://hh.ru/vacancy/52543765?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550efe"
+  },
+  "name": "Scala developer",
+  "url": "https://hh.ru/vacancy/48095771?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550eff"
+  },
+  "name": "Ведущий аналитик данных",
+  "url": "https://hh.ru/vacancy/48537190?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f00"
+  },
+  "name": "Программист",
+  "url": "https://hh.ru/vacancy/52586156?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 120000,
+  "salary_max": 240000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f01"
+  },
+  "name": "Front-end developer (Healthcare product company)",
+  "url": "https://hh.ru/vacancy/52603293?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f02"
+  },
+  "name": "Scientific Application Developer (Cheminformatics, Bioinformatics)",
+  "url": "https://hh.ru/vacancy/52604172?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f03"
+  },
+  "name": "Управляющий директор\\ Директор Data Scientist",
+  "url": "https://hh.ru/vacancy/45978404?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f04"
+  },
+  "name": "Руководитель направления Data Engineer",
+  "url": "https://hh.ru/vacancy/50030984?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f05"
+  },
+  "name": "Ассистент программиста DS",
+  "url": "https://hh.ru/vacancy/52246037?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f06"
+  },
+  "name": "Старший аналитик Отдел развития хранилищ данных",
+  "url": "https://hh.ru/vacancy/51789481?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f07"
+  },
+  "name": "Директор по маркетингу",
+  "url": "https://hh.ru/vacancy/52236381?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f08"
+  },
+  "name": "Senior Software Engineer (Healthcare product, bio/chem-informatics)",
+  "url": "https://hh.ru/vacancy/52603626?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f09"
+  },
+  "name": "Customer Success Manager",
+  "url": "https://hh.ru/vacancy/52215441?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f0a"
+  },
+  "name": "Director of spine research",
+  "url": "https://hh.ru/vacancy/52896863?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f0b"
+  },
+  "name": "R&D Engineer Computational Geometry and Design Optimization",
+  "url": "https://hh.ru/vacancy/52193035?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f0c"
+  },
+  "name": "Специалист по планированию, контролю и менеджменту качества",
+  "url": "https://hh.ru/vacancy/52804701?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f0d"
+  },
+  "name": "Специалист по планированию, контролю и менеджменту качества",
+  "url": "https://hh.ru/vacancy/52804700?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4bb8ae7ed7b1550f0e"
+  },
+  "name": "Специалист по планированию, контролю и менеджменту качества",
+  "url": "https://hh.ru/vacancy/52804697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f0f"
+  },
+  "name": "Специалист 1C",
+  "url": "https://hh.ru/vacancy/48804902?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f10"
+  },
+  "name": "Product Owner Collateral Machine",
+  "url": "https://hh.ru/vacancy/50889567?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f11"
+  },
+  "name": "Специалист по планированию, контролю и менеджменту качества",
+  "url": "https://hh.ru/vacancy/52804699?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f12"
+  },
+  "name": "Бизнес-аналитик",
+  "url": "https://hh.ru/vacancy/50888270?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f13"
+  },
+  "name": "Специалист по планированию, контролю и менеджменту качества",
+  "url": "https://hh.ru/vacancy/52804696?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f14"
+  },
+  "name": "Специалист по планированию, контролю и менеджменту качества",
+  "url": "https://hh.ru/vacancy/52804698?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f15"
+  },
+  "name": "English speaking recruitment intern",
+  "url": "https://hh.ru/vacancy/52303572?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 40000,
+  "salary_max": 80000,
+  "salary_currency": "руб."
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f16"
+  },
+  "name": "Senior BigData Developer with Python / Spark / AWS",
+  "url": "https://hh.ru/vacancy/52231638?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f17"
+  },
+  "name": "Senior QA Engineer (automation)",
+  "url": "https://hh.ru/vacancy/48056689?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f18"
+  },
+  "name": "Ассистент программиста DS",
+  "url": "https://hh.ru/vacancy/52246035?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f19"
+  },
+  "name": "Портфельный управляющий (family office)",
+  "url": "https://hh.ru/vacancy/52836674?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f1a"
+  },
+  "name": "Team lead/ руководитель проекта",
+  "url": "https://hh.ru/vacancy/52194351?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null
+},{
+  "_id": {
+    "$oid": "62269a4cb8ae7ed7b1550f1b"
+  },
+  "name": "Senior/Middle Java Developer",
+  "url": "https://hh.ru/vacancy/50979729?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=data%20scientist",
+  "site": "https://hh.ru",
+  "salary_min": 220000,
+  "salary_max": 400000,
+  "salary_currency": "руб."
+}]
