@@ -1,0 +1,277 @@
+[{
+  "_id": {
+    "$oid": "6243cb17857231020bfc2439"
+  },
+  "date": {
+    "$date": "2022-03-23T13:36:36Z"
+  },
+  "first_name": "Iulia Kim",
+  "last_name": null,
+  "sender_id": 256444517,
+  "text": null,
+  "username": "tytta_ya"
+},{
+  "_id": {
+    "$oid": "6243cb18857231020bfc243e"
+  },
+  "date": {
+    "$date": "2022-03-12T17:39:33Z"
+  },
+  "first_name": "Влад",
+  "last_name": null,
+  "sender_id": 604859190,
+  "text": null,
+  "username": "vladvlavlad"
+},{
+  "_id": {
+    "$oid": "6243cb19857231020bfc2440"
+  },
+  "date": {
+    "$date": "2022-03-11T12:39:17Z"
+  },
+  "first_name": "Влад",
+  "last_name": null,
+  "sender_id": 604859190,
+  "text": "Ищу работу манагером , канала любой темат. \nТоргуюсь за рекламу.Все подробности в лс:\n@vladvlavlad",
+  "username": "vladvlavlad"
+},{
+  "_id": {
+    "$oid": "6243cb1a857231020bfc2487"
+  },
+  "date": {
+    "$date": "2022-03-11T12:36:30Z"
+  },
+  "first_name": "Timur",
+  "last_name": null,
+  "sender_id": 699777099,
+  "text": null,
+  "username": "TimurADM"
+},{
+  "_id": {
+    "$oid": "6243cb1b857231020bfc24ce"
+  },
+  "date": {
+    "$date": "2022-03-06T14:28:42Z"
+  },
+  "first_name": "Richard 🐬",
+  "last_name": null,
+  "sender_id": 5159874376,
+  "text": "@DenSoboll",
+  "username": "Richard_MU"
+},{
+  "_id": {
+    "$oid": "6243cb1c857231020bfc24d1"
+  },
+  "date": {
+    "$date": "2022-03-06T14:28:39Z"
+  },
+  "first_name": "Richard 🐬",
+  "last_name": null,
+  "sender_id": 5159874376,
+  "text": null,
+  "username": "Richard_MU"
+},{
+  "_id": {
+    "$oid": "6243cb1d857231020bfc24dd"
+  },
+  "date": {
+    "$date": "2022-03-03T23:49:31Z"
+  },
+  "first_name": "meysam",
+  "last_name": null,
+  "sender_id": 2042917076,
+  "text": null,
+  "username": null
+},{
+  "_id": {
+    "$oid": "6243cb1e857231020bfc24df"
+  },
+  "date": {
+    "$date": "2022-03-02T12:06:08Z"
+  },
+  "first_name": "VB",
+  "last_name": null,
+  "sender_id": 438660983,
+  "text": "Продам старые каналы, отдам дешевле, чем у других\n\n2017 по 550\n2018 по 430\n2019 по 380\n\nЧерез ваших гарантов",
+  "username": "dmitriymelnik"
+},{
+  "_id": {
+    "$oid": "6243cb1f857231020bfc24e1"
+  },
+  "date": {
+    "$date": "2022-03-02T12:05:29Z"
+  },
+  "first_name": "VB",
+  "last_name": null,
+  "sender_id": 438660983,
+  "text": "Продам старые каналы, отдам дешевле, чем у других\n\n2017 по 550\n2018 по 430\n2019 по 380\n\nЧерез ваших гарантов",
+  "username": "dmitriymelnik"
+},{
+  "_id": {
+    "$oid": "6243cb20857231020bfc24e3"
+  },
+  "date": {
+    "$date": "2022-02-25T20:46:23Z"
+  },
+  "first_name": "Макс",
+  "last_name": null,
+  "sender_id": 970025494,
+  "text": "@kingstalk3 лс",
+  "username": "robert_tg"
+},{
+  "_id": {
+    "$oid": "6243cb21857231020bfc24e5"
+  },
+  "date": {
+    "$date": "2022-02-22T13:42:57Z"
+  },
+  "first_name": "Патриот",
+  "last_name": null,
+  "sender_id": 1656471546,
+  "text": "Продам каналы срочно\n\nПрон 24к подп \n\nt.me/joinchat/7OP6kUk2RR43ZjFi\n\nЦена договорная 😉\n\nМца юмор видосник 2к подп\n\nhttps://t.me/joinchat/VBfCfsbk-nxiYWMy \n\nЦена 3к₽😶‍🌫️\n\nМца канал 2к20г \n\nhttps://t.me/smeshniyvideo \n\nЦена договорная 🤓",
+  "username": "Lalipop36556"
+},{
+  "_id": {
+    "$oid": "6243cb22857231020bfc24ea"
+  },
+  "date": {
+    "$date": "2022-02-21T17:34:21Z"
+  },
+  "first_name": "Alex-san",
+  "last_name": null,
+  "sender_id": 1756936501,
+  "text": "Продам 2 канала:\nhttps://t.me/Interesting_animals\nРеклама вообще не размещалась и не продавалась, очень живая ЖЦА аудитория! Канал вёлся для души, источник контента предоставлю.\nhttps://t.me/mylovelydogy\nКанал про собак, сидит много собачников, также бонусом идёт чат, можно продавать услуги, или же договорилиться о сотрудничестве с кинологом!\nОтдам дёшево, писать в ЛС с пометкой \"каналы животные\"",
+  "username": "Momoti_san"
+},{
+  "_id": {
+    "$oid": "6243cb23857231020bfc24ec"
+  },
+  "date": {
+    "$date": "2022-02-18T22:07:58Z"
+  },
+  "first_name": "Патриот",
+  "last_name": null,
+  "sender_id": 1656471546,
+  "text": "Продам каналы срочно\n\nПрон 24к подп \n\nt.me/joinchat/7OP6kUk2RR43ZjFi\n\nЦена договорная 😉\n\nМца юмор видосник 2к подп\n\nhttps://t.me/joinchat/VBfCfsbk-nxiYWMy \n\nЦена 3к₽😶‍🌫️\n\nМца канал 2к20г \n\nhttps://t.me/smeshniyvideo \n\nЦена договорная 🤓",
+  "username": "Lalipop36556"
+},{
+  "_id": {
+    "$oid": "6243cb24857231020bfc24ee"
+  },
+  "date": {
+    "$date": "2022-01-31T13:02:31Z"
+  },
+  "first_name": "Post",
+  "last_name": "Padre",
+  "sender_id": 1450383115,
+  "text": "По чём?",
+  "username": "PostPadre"
+},{
+  "_id": {
+    "$oid": "6243cb25857231020bfc24f0"
+  },
+  "date": {
+    "$date": "2022-01-31T12:57:26Z"
+  },
+  "first_name": "Adabalt",
+  "last_name": "Wu",
+  "sender_id": 1394506007,
+  "text": "Привет, ищу редактора на канал о психологии",
+  "username": "adabalt"
+},{
+  "_id": {
+    "$oid": "6243cb26857231020bfc24f3"
+  },
+  "date": {
+    "$date": "2022-01-16T05:09:24Z"
+  },
+  "first_name": "Rhealyn",
+  "last_name": "Lignes",
+  "sender_id": 5057945127,
+  "text": null,
+  "username": "Bjlyn"
+},{
+  "_id": {
+    "$oid": "6243cb27857231020bfc2544"
+  },
+  "date": {
+    "$date": "2022-01-13T09:42:48Z"
+  },
+  "first_name": "Zandy",
+  "last_name": null,
+  "sender_id": 1692084786,
+  "text": null,
+  "username": "zandy_add"
+},{
+  "_id": {
+    "$oid": "6243cb28857231020bfc2593"
+  },
+  "date": {
+    "$date": "2022-01-10T20:08:00Z"
+  },
+  "first_name": "Artem",
+  "last_name": "Meta",
+  "sender_id": 167015131,
+  "text": null,
+  "username": "artemmeta"
+},{
+  "_id": {
+    "$oid": "6243cb29857231020bfc262f"
+  },
+  "date": {
+    "$date": "2022-01-03T12:45:23Z"
+  },
+  "first_name": "Invalid",
+  "last_name": "Name",
+  "sender_id": 1998325379,
+  "text": null,
+  "username": "Invalid_name_user"
+},{
+  "_id": {
+    "$oid": "6243cb2a857231020bfc26b1"
+  },
+  "date": {
+    "$date": "2021-12-21T02:16:57Z"
+  },
+  "first_name": "Владимир",
+  "last_name": null,
+  "sender_id": 366167529,
+  "text": null,
+  "username": "Venom2107i"
+},{
+  "_id": {
+    "$oid": "6243cb2b857231020bfc271a"
+  },
+  "date": {
+    "$date": "2021-12-17T16:15:10Z"
+  },
+  "first_name": "Владислав",
+  "last_name": "Алексеевич",
+  "sender_id": 668458190,
+  "text": "@Akiw_Kudawev лс",
+  "username": "tarased"
+},{
+  "_id": {
+    "$oid": "6243cb2c857231020bfc276c"
+  },
+  "date": {
+    "$date": "2021-12-16T22:13:55Z"
+  },
+  "first_name": "Патриот",
+  "last_name": null,
+  "sender_id": 1656471546,
+  "text": "Продам каналы срочно\n\nПрон 33к подп \n\nt.me/joinchat/7OP6kUk2RR43ZjFi\n\nЦена договорная 😉\n\nМца юмор видосник 2к подп\n\nhttps://t.me/joinchat/VBfCfsbk-nxiYWMy \n\nЦена 3к₽😶‍🌫️\n\nМца канал 2к20г \n\nhttps://t.me/smeshniyvideo \n\nЦена договорная 🤓",
+  "username": "Lalipop36556"
+},{
+  "_id": {
+    "$oid": "6243cb2d857231020bfc27ba"
+  },
+  "date": {
+    "$date": "2021-12-10T19:26:11Z"
+  },
+  "first_name": "Artem",
+  "last_name": "Kuzmin",
+  "sender_id": 755724860,
+  "text": null,
+  "username": "artemkuzya"
+}]
